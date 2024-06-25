@@ -1,9 +1,9 @@
-#include "Calculation.h"
+#include "Calclation.h"
 //プロトタイプ宣言
 void SetX(float a, float b);
 void SetY(float a, float b);
 //グローバル変数
-Calculation x, y;
+Calclation x, y;
 //メイン関数
 int main()
 {
@@ -25,5 +25,4 @@ void SetY(float a, float b)
 {
 	y.SetA(a);
 	y.SetB(b);
-}
 }

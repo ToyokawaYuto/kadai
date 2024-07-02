@@ -1,4 +1,3 @@
-#pragma once
 /*
 Sample.h
 SampleClass ƒNƒ‰ƒX‚ğéŒ¾
